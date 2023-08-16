@@ -1,0 +1,14 @@
+name = "LibVulpes"
+filename = "LibVulpes-1.7.10-0.2.8-37-universal.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "096ae9fd15612d589cdf2aff45fd45740dfd6eb9"
+
+[update]
+[update.curseforge]
+file-id = 2812784
+project-id = 236541

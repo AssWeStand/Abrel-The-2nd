@@ -1,0 +1,14 @@
+name = "Thaumcraft 4 Tweaks"
+filename = "Thaumcraft4Tweaks-1.5.15.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/J0HWRWq5/versions/OHoWnYP4/Thaumcraft4Tweaks-1.5.15.jar"
+hash-format = "sha512"
+hash = "538dff4db2962c15fc17956a56dad25ff85d3768f3397ad3d0962b0dd334a994e2256ed6b15edc600b73574001dcab3cea521e1d3c15b22f7f36a4d492c36730"
+
+[update]
+[update.modrinth]
+mod-id = "J0HWRWq5"
+version = "OHoWnYP4"
